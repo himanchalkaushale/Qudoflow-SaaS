@@ -2,7 +2,7 @@
 
 A modern, single-page React landing page for Qudoflow SaaS platform featuring advanced dark theme implementation, interactive UI components, and responsive design.
 
-![Qudoflow Landing Page](https://via.placeholder.com/800x400/000000/FFFFFF?text=Qudoflow+Landing+Page)
+![Qudoflow Landing Page](qudoflow_landing_page.png)
 
 ## 🚀 Features
 
